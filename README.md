@@ -1,1 +1,1 @@
-# knights-travails
+This script finds a solution to a "knight travails" problem, which consists on finding the shortest path a knight can take to move between two positions on a chessboard. To solve this I implemented a breadth-first-search algorithm.
